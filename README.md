@@ -1,2 +1,3 @@
-# Conway-s-Game-of-Life-Cellular-Automata
-A Reproduction of Conway's Game of Life: Cellular Automata — From 2D to 3D with Visualization
+# Conway's Game of Life: Cellular Automata
+最近我对元胞自动机这个游戏挺感兴趣，想做一个小Demo，目前设想的路径是这样的：先实现没有可视化的2D版本，然后再实现有可视化的2D版本，接着扩展到3D。可能会涉及一些网页技术，因为要展示出来。同时我设想整个项目的实现流程，代码组织都是清晰，方便后来者复现和学习的。</br>
+在实现完Demo之后，可能进一步会分析一些特殊的游戏情形，或者如果游戏性能有问题，可能会进一步优化。
